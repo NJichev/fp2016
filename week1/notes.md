@@ -102,7 +102,7 @@ Lets see this in action - a function that takes one integer and returns `"zero"`
 (define (zero-or-else? n)
   (if (= n 0)
       "zero"
-      "else))
+      "else"))
 ```
 
 **As you can see, the function returns the result of the if expression.**

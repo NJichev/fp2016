@@ -72,4 +72,4 @@
 
 ; Използвайки знанието за това как работи map в Racket
 (define (zip2 xs ys)
-  (map gons xs ys))
+  (map cons xs ys))
